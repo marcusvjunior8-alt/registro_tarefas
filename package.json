@@ -1,0 +1,25 @@
+{
+  "name": "agenda_atividades",
+  "version": "1.0.0",
+  "description": "CRUD - REGISTRO DE TAREFAS",
+  "main": "dados.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusvjunior8-alt/registro_tarefas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/marcusvjunior8-alt/registro_tarefas/issues"
+  },
+  "homepage": "https://github.com/marcusvjunior8-alt/registro_tarefas#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
